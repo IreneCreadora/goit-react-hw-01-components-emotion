@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components-emotion/static/css/main.eebfcfcb.css",
+    "main.js": "/goit-react-hw-01-components-emotion/static/js/main.f5bf4548.js",
+    "index.html": "/goit-react-hw-01-components-emotion/index.html",
+    "main.eebfcfcb.css.map": "/goit-react-hw-01-components-emotion/static/css/main.eebfcfcb.css.map",
+    "main.f5bf4548.js.map": "/goit-react-hw-01-components-emotion/static/js/main.f5bf4548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebfcfcb.css",
+    "static/js/main.f5bf4548.js"
+  ]
+}
